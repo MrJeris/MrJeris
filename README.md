@@ -13,3 +13,5 @@
 * 1, [source](https://github.com/MrJeris/SwiftUITakeHome) _July 2023_
 ### Another projects:
 * Graduate work, Android App, [source](https://github.com/MrJeris/DailyPlanner) _July 2022_
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJeris&show_icons=true&theme=dark)](https://github.com/MrJeris/github-readme-stats)
