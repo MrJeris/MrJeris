@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👨‍💻 I am an iOS developer
-🌱 I'm studying for master's degree at the MAI
-🎓I am a bachelor of software engineering at MAI
+👨‍💻 I am an iOS developer<br />
+🌱 I'm studying for master's degree at the MAI<br />
+🎓I am a bachelor of software engineering at MAI<br />
 📫 How to reach me:
 * [Telegram](https://t.me/mrjeris)
 * [mrjeris@yandex.ru](mailto:mrjeris@yandex.ru)
