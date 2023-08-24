@@ -10,7 +10,7 @@
 ### Projects:
 * TakeHome, [source](https://github.com/MrJeris/SwiftUITakeHome) _Aug 2023_
 ### Test case applications:
-* 1, [source](https://github.com/MrJeris/SwiftUITakeHome) _July 2023_
+* 1, [source](https://github.com/MrJeris/TestCase) _July 2023_
 * 2, [source](https://github.com/MrJeris/TestCaseRickAndMorty) _August 2023_
 ### Another projects:
 * Graduate work, Android App, [source](https://github.com/MrJeris/DailyPlanner) _July 2022_
